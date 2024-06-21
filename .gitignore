@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# extensions
+*.dstore
+
+#directories
+.idea/
+
 # Log file
 *.log
 
